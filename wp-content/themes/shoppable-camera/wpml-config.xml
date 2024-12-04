@@ -1,0 +1,9 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_shoppable-camera">
+            <key name="product_segment_title_one" />
+            <key name="product_segment_title_two" />
+            <key name="crews_tagline" />
+        </key>
+    </admin-texts>
+</wpml-config>
